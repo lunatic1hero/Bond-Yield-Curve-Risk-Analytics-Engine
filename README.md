@@ -1,5 +1,5 @@
 # Bond-Yield-Curve-Risk-Analytics-Engine
-# Bond Yield Curve & Risk Analytics Engine
+
 
 ## 💹 Overview
 This project models and analyzes **yield curves** and **interest rate risk** across fixed-income markets.  
